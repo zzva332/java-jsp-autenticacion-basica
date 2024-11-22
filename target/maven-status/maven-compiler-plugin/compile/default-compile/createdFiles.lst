@@ -1,0 +1,8 @@
+com\sena\moduloauth\db\RepositorioUsuario.class
+com\sena\moduloauth\JAXRSConfiguration.class
+com\sena\moduloauth\models\Usuario.class
+com\sena\moduloauth\pages\HomeServlet.class
+com\sena\moduloauth\pages\CerrarLogin.class
+com\sena\moduloauth\pages\LoginServlet.class
+com\sena\moduloauth\resources\JavaEE8Resource.class
+com\sena\moduloauth\pages\Session.class
